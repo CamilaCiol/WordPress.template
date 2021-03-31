@@ -1,0 +1,18 @@
+Saturday, 06-Mar-2021 12:03:32 - backup started
+Saturday, 06-Mar-2021 12:03:32 - wp version     : 5.5.3
+Saturday, 06-Mar-2021 12:03:32 - php version    : 7.2.34
+Saturday, 06-Mar-2021 12:03:32 - mysql version  : 5.5.5
+Saturday, 06-Mar-2021 12:03:32 - memory limit   : 1024M
+Saturday, 06-Mar-2021 12:03:32 - execution time : 600
+Saturday, 06-Mar-2021 12:03:32 - mysql timeout  : 
+Saturday, 06-Mar-2021 12:03:32 - socket timeout : 600
+Saturday, 06-Mar-2021 12:03:32 - files larger than 25 MB will be excluded from the backup
+Saturday, 06-Mar-2021 12:03:32 - generating file list
+Saturday, 06-Mar-2021 12:03:32 - number of files to include in the archive is 778, and their uncompressed size is 33.49 MB
+Saturday, 06-Mar-2021 12:03:33 - finished generating file list
+Saturday, 06-Mar-2021 12:03:33 - database backup started
+Saturday, 06-Mar-2021 12:03:33 - backing up tables with "wpcrs_" prefix
+Saturday, 06-Mar-2021 12:03:33 - number of tables to backup - 16
+Saturday, 06-Mar-2021 12:03:33 - database backup finished
+Saturday, 06-Mar-2021 12:03:33 - archiving files using ziparchive
+Saturday, 06-Mar-2021 12:03:44 - backup finished
